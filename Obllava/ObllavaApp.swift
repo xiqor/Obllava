@@ -11,7 +11,7 @@ import SwiftUI
 struct ObllavaApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            ChatView()
         }
     }
 }
